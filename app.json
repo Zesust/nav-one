@@ -1,8 +1,13 @@
 {
   "expo": {
+<<<<<<< HEAD
     "scheme": "my-scheme",
     "name": "nav-two",
     "slug": "nav-two",
+=======
+    "name": "nav-one",
+    "slug": "nav-one",
+>>>>>>> 5cd3bc2aa1948a363a01a45369757b7570dd0d12
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,9 +28,13 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+<<<<<<< HEAD
     },
     "plugins": [
       "expo-router"
     ]
+=======
+    }
+>>>>>>> 5cd3bc2aa1948a363a01a45369757b7570dd0d12
   }
 }
